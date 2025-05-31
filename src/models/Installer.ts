@@ -1,4 +1,4 @@
-import { ProductCategory } from './Product'; // Added import
+import { ProductCategory } from './Product';
 
 export interface Installer {
   id: string; // Or number
